@@ -19,6 +19,7 @@ Clone the repository and open `index.html` in your web browser to play.
 
 ## Demo
 Play the game online [here](https://simongameusingjquery.netlify.app/).
+Deployed using Netlify.
 
 ## Technologies Used
 - HTML5
